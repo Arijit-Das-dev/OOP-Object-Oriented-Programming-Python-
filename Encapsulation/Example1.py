@@ -7,7 +7,7 @@ Encapsulation means wrapping data and functions into single unit (object)
 class Account:
 
     def __init__(self, balance, acc_no):
-        
+  
         self.balance = balance
         self.acc_no = acc_no
 
