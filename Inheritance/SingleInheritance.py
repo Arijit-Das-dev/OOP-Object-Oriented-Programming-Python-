@@ -22,3 +22,15 @@ class Child(Parent):
     pass
     
 """
+
+class Person:
+
+    def speak(self):
+
+        print("I can speak")
+
+class Student(Person):
+    pass
+
+s = Student()
+s.speak()
