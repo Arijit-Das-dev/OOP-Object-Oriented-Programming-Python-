@@ -10,7 +10,8 @@ Structure:
 
 One Parent -> One child
 
-**Note: by inheritance we can access another class methods + properties
+**Note: By inheritance we can access another class methods + properties
+        we can access public and protected properties except private property
 """
 
 # Syntax
