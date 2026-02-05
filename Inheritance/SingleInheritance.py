@@ -12,7 +12,7 @@ One Parent -> One child
 """
 
 # Syntax
-
+"""
 class Parent:
 
     pass
@@ -20,3 +20,5 @@ class Parent:
 class Child(Parent):
 
     pass
+    
+"""
