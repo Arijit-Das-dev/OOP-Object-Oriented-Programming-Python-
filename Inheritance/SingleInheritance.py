@@ -9,6 +9,8 @@ One class have it's own quality or method same as another class wants the same o
 Structure: 
 
 One Parent -> One child
+
+**Note: by inheritance we can access another class methods + properties
 """
 
 # Syntax
