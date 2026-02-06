@@ -23,3 +23,17 @@ class Child(Parent):
 }   
 """
 
+""" QUESTION 1 =>
+
+Design classes:
+
+Person → Employee → Manager
+
+Person stores name
+
+Employee stores employee ID
+
+Manager stores team size
+Write code to access all details using a Manager object.
+
+"""
