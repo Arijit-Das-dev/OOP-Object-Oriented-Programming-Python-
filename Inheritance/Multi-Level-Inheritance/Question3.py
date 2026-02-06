@@ -25,7 +25,6 @@ class Person:
 
     def showPersonDetails(self, adhaar):
 
-
         if adhaar == self._p_adhaar:
 
             print(": PATIENT DETAILS :")
