@@ -25,6 +25,7 @@ class Child(Parent):
 
 """ QUESTION 1 =>
 
+
 Design classes:
 
 Person → Employee → Manager
@@ -40,7 +41,7 @@ Write code to access all details using a Manager object.
 
 class Person:
 
-    subject = "Company details management system"
+    subject = "Organisation structure"
 
     def __init__(self, name):
         
